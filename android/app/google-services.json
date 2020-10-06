@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "876490755762",
+    "firebase_url": "https://auth-ca8ef.firebaseio.com",
+    "project_id": "auth-ca8ef",
+    "storage_bucket": "auth-ca8ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876490755762:android:806b9f1e1e7488a20983ab",
+        "android_client_info": {
+          "package_name": "com.reactnativelab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876490755762-qlbqrvaunkpjtbjdq6b8t3ol96sb59ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhx8pcfgQXf_ozwBDBkvtxbPkdQyntZZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876490755762-qlbqrvaunkpjtbjdq6b8t3ol96sb59ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

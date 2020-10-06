@@ -1,0 +1,28 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true,
+    "es2020": true
+  },
+  "extends": ["airbnb", "plugin:prettier/recommended"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 11,
+    "sourceType": "module"
+  },
+  "plugins": ["react"],
+  "rules": {
+    "prettier/prettier": [
+      "error",
+      {
+        "endOfLine": "auto"
+      }
+    ],
+    "import/prefer-default-export": "off",
+    "react/prop-types": "off",
+    "no-use-before-define": "off",
+    "react/jsx-closing-bracket-location": "off"
+  }
+}

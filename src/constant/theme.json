@@ -1,0 +1,43 @@
+{
+  "colors": {
+    "primary": "#5A89FF",
+    "secondary": "#929196",
+    "lightBlack": "#333333",
+    "backgroundColor": "#fff",
+    "gray": "#CDCDCD",
+    "underlayColor": "rgba(0,0,0,0.2)"
+  },
+  "Button": {
+    "buttonStyle": {
+      "borderRadius": 40
+    },
+    "titleStyle": {
+      "fontFamily": "Poppins-Medium"
+    }
+  },
+  "Text": {
+    "style": {
+      "color": "#848484",
+      "fontFamily": "Poppins-Medium"
+    }
+  },
+  "Icon": {
+    "color": "#5A89FF"
+  },
+  "Input": {
+    "inputStyle": {
+      "fontSize": 14
+    },
+    "placeholderTextColor": "#7A7C81",
+    "inputContainerStyle": {
+      "borderBottomWidth": 0,
+      "backgroundColor": "#EFF4FA",
+      "borderRadius": 4,
+      "marginHorizontal": 0,
+      "paddingLeft": 20
+    },
+    "containerStyle": {
+      "paddingHorizontal": 0
+    }
+  }
+}
